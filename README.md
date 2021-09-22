@@ -1,1 +1,15 @@
-Moyulingjiu
+### 墨羽翎玖~
+
+欢迎来到墨羽翎玖的频道。
+
+![cat](cat.jpeg)
+
+这个人不过是一个喜欢猫猫的懒狗罢了~
+
+
+
+[![墨羽翎玖's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moyulingjiu&show_icons=true)](https://github.com/Moyulingjiu/Moyulingjiu)
+
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moyulingjiu&layout=compact)](https://github.com/Moyulingjiu/Moyulingjiu)
+
